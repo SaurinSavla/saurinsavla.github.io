@@ -1,5 +1,4 @@
 # Images
-
 assets/images/home1.jpg
 assets/images/home3.jpg
 assets/images/home4.jpg
@@ -9,6 +8,8 @@ assets/images/universal.jpg
 CNAME
 
 #html
-
 jekyll.html
 resume.html
+
+#environment
+.env
